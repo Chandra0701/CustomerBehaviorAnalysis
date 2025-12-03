@@ -10,10 +10,6 @@ This analysis supports business strategy in areas such as customer segmentation,
 
 📦 Dataset Summary
 
-Extracted from pdf (page 1) 
-
-Customer Shopping Behavior Anal…
-
 Rows: 3,900
 
 Columns: 18
